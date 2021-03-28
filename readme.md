@@ -1,4 +1,4 @@
-# Login Authentication Tutorial
+# Login Authentication Guide
 
 ### Stack
 * express / express-session / express-flash
